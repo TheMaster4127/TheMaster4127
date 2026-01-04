@@ -7,7 +7,7 @@ My work primarily involves **financial data analysis, time-series experimentatio
 
 I’m highly **competitive and driven**, constantly refining both my technical and financial intuition. Outside of ML, I’m deeply passionate about **Formula 1 and competitive gaming**, which strongly influences my problem-solving mindset — precision, strategy, and execution under pressure.
 
-I’m currently preparing for opportunities in **Quantitative Finance or Machine Learning *, with a long-term goal of building robust, production-ready financial ML systems.
+I’m currently preparing for opportunities in **Quantitative Finance or Machine Learning**, with a long-term goal of building robust, production-ready financial ML systems.
 
 
 
