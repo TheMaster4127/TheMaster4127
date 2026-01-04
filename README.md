@@ -1,5 +1,5 @@
 
-## 💫 About Me
+# 💫 About Me
 
 I’m an intermediate Machine Learning practitioner focused on **Financial ML and Quantitative Finance**, with hands-on experience through small projects and research-oriented notebooks.
 
@@ -11,7 +11,7 @@ I’m currently preparing for opportunities in **Quantitative Finance or Machine
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shounakvelip) 
 
 # 💻 Tech Stack
