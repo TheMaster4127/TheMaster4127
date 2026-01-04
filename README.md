@@ -1,5 +1,14 @@
-# 💫 About Me:
-I am Currently Learning and Working on Machine Learning Projects Specifically in Finance and Quantitative Finance<br>I love Watching F1 , Playing Lots of Videos Games, <br>
+
+## 💫 About Me
+
+I’m an intermediate Machine Learning practitioner focused on **Financial ML and Quantitative Finance**, with hands-on experience through small projects and research-oriented notebooks.
+
+My work primarily involves **financial data analysis, time-series experimentation, and model-driven insights**, with an emphasis on understanding market behavior rather than black-box predictions.
+
+I’m highly **competitive and driven**, constantly refining both my technical and financial intuition. Outside of ML, I’m deeply passionate about **Formula 1 and competitive gaming**, which strongly influences my problem-solving mindset — precision, strategy, and execution under pressure.
+
+I’m currently preparing for opportunities in **Quantitative Finance or Machine Learning Engineering**, with a long-term goal of building robust, production-ready financial ML systems.
+
 
 
 ## 🌐 Socials:
