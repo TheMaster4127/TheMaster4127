@@ -1,7 +1,7 @@
 
 # 💫 About Me
 
-I’m an intermediate Machine Learning practitioner focused on **Financial ML and Quantitative Finance**, with hands-on experience through small projects and research-oriented notebooks.
+I’m an intermediate Machine Learning practitioner focused on **Data Science and ML **, with hands-on experience through small projects and research-oriented notebooks.
 
 My work primarily involves **financial data analysis, time-series experimentation, and model-driven insights**, with an emphasis on understanding market behavior rather than black-box predictions.
 
