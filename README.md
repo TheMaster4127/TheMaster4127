@@ -4,7 +4,7 @@
 I’m an intermediate Machine Learning practitioner focused on **Data Science and ML**, with hands-on experience through small projects and research-oriented notebooks.
 
 
-I’m highly **competitive and driven**, constantly refining both my technical and financial intuition. Outside of ML, I’m deeply passionate about competitive gaming, which strongly influences my problem-solving mindset — precision, strategy, and execution under pressure.
+I’m highly **competitive and driven**, constantly refining both my technical and financial intuition.
 
 I’m currently preparing for opportunities in **Machine Learning**, with a long-term goal of building robust, production-ready ML systems.
 
