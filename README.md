@@ -2,7 +2,7 @@
 
 I’m a final-year student focused on **Machine Learning and Data Science**, building end-to-end projects with a strong emphasis on **feature engineering, model evaluation, and reproducibility**.
 
-I’m currently developing my ML foundation through structured projects and Kaggle competitions, with a focus on **building reliable pipelines rather than chasing quick results**.
+I’m currently developing my ML foundation through structured projects and Kaggle competitions, with a focus on **building reliable pipelines**.
 
 ---
 
